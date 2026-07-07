@@ -5,11 +5,11 @@
 
 ##  Team Members
 
-| Name | ID |
-|------|----|
-| Samira Aldamen | 170587 |
-| Wajd Almadi | 172834 |
-| Batool Mahashi | 172901 |
+| Name |
+|------|
+| Samira Aldamen |
+| Wajd Almadi |
+| Batool Mahashi |
 
 ---
 
